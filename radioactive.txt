@@ -1,0 +1,4 @@
+geiger_counter
+==============
+
+This is a set of scripts to analyze the decay from our radioactive core.
