@@ -2,8 +2,9 @@ geiger_counter
 ==============
 
 This is a set of scripts to analyze the decay from our radioactive core.
+THis is a demo for UdeM bootcamp
 
 USAGE:
 ======
 Run as:
-python geiger_counter.sh
+	python geiger_counter.sh
